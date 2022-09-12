@@ -24,7 +24,7 @@ This repository contains the implementation of deep learning experiments to pred
 ## Installation
 To clone the following repository, please run:
 ```
-git clone --recursive https://github.com/federicobetti99/DNNForHemo.git
+git clone --recursive https://github.com/federicobetti99/Deep-Learning-For-Haemodynamics.git
 ```
 
 ## Requirements
