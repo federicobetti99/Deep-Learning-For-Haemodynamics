@@ -12,11 +12,9 @@ This repository contains the implementation of deep learning experiments to pred
   * `paraview_utils.py` - Utilities for snapshots taking in Paraview.
   * `error_distribution.py` - Utilities to plot distributions of errors with a pretrained model.
   * `MTL.py` - Utilities for custom loss functions for multitask learning.
-* `models` - Pytorch models for all tasks.
 * `labels` - Folder containing all labels .csv.
 * `figures` - Training trends figures.
-* `report` - Folder containing the report of the obtained results.
-  * `report.pdf` - Report pdf file.
+* `report.pdf` - Report pdf file.
 *  `STL_training.py` - Executable to perform single task training.
 *  `MTL_training.py` - Executable to perform multitask training.
 * `requirements.txt` - Requirements text file.
