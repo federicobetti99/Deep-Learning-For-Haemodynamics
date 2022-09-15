@@ -13,7 +13,6 @@ This repository contains the implementation of deep learning experiments to pred
   * `error_distribution.py` - Utilities to plot distributions of errors with a pretrained model.
   * `MTL.py` - Utilities for custom loss functions for multitask learning.
 * `labels` - Folder containing all labels .csv.
-* `figures` - Training trends figures.
 * `report.pdf` - Report pdf file.
 *  `STL_training.py` - Executable to perform single task training.
 *  `MTL_training.py` - Executable to perform multitask training.
